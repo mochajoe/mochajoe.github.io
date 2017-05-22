@@ -55,7 +55,6 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: “I never save anything for the swim back”
   - text: "It is never too late to be what you might have been."
 
 me-img: "/img/13952679.jpeg"
