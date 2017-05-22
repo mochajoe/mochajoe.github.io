@@ -16,7 +16,7 @@ baseurl: /personal-jekyll-theme
 
 # Google tracking id
 
-google-tracking-id: ""
+google-tracking-id: "Anthony Nguyen"
 
 # Forces https everywhere in your website, except when you serve it locally
 # If you are not hosted on Github Pages, and your host doesn't support https
@@ -31,7 +31,7 @@ force-https: True
 lang: "en"
 author: "Anthony Nguyen"
 title: "{ Anthony Nguyen }"
-description: "Blog and website of Anthony Nguyen, blogg."
+description: "Blog and website of Anthony Nguyen"
 keywords: "Nguyen, Anthony, personal, jekyll, theme, javascript, Software Engineer"
 favicon: "/img/favicon.ico"
 
