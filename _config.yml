@@ -121,6 +121,9 @@ events:
     date: "September 2006-2017"
     description: "Worked in IT for various companies"
   - image: "/img/timeline/baracktocat.jpg"
+    date: "September 2006-2017"
+    description: "Bachelors Degree from George Mason University in IT Security"
+  - image: "/img/timeline/baracktocat.jpg"
     date: "September 2005"
     description: "My first introduction into Coding"
 
