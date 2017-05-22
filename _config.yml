@@ -137,7 +137,7 @@ email: "anthonyduynguyen@gmail.com"
 
 # if the author_blurb is not set, then this feature is skipped
 author_blurb: "Anthony Nguyen is a Software Engineer."
-author_blurb_image: "/img/author.png"
+author_blurb_image: "/img/13952679.jpeg"
 
 ##################
 # Social Buttons #
@@ -145,7 +145,7 @@ author_blurb_image: "/img/author.png"
 
 social:
   - title: "facebook"
-    url: "https://facebook.com/"
+    url: "https://facebook.com/freezingcoffee"
   - title: "github"
     url: "https://github.com/mochajoe"
 
