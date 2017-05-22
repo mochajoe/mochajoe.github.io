@@ -31,7 +31,7 @@ force-https: True
 lang: "en"
 author: "Anthony Nguyen"
 title: "{ Anthony Nguyen }"
-description: "From years of working in support to becoming a Developer blog and website of Anthony Nguyen"
+description: "From years of working IT Support to becoming a Developer blog and website of Anthony Nguyen"
 keywords: "Nguyen, Anthony, personal, jekyll, theme, javascript, Software Engineer"
 favicon: "/img/favicon.ico"
 
@@ -183,6 +183,7 @@ pages_list:
   Blog: 'latest-post'
   Timeline: 'timeline'
   Contact: 'contact'
+  Projects: 'Projects'
 
 # Exclusion list from the generated _site
 
