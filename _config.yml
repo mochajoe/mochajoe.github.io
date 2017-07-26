@@ -122,7 +122,7 @@ events:
   - image: "/img/mason-logo-green.png"
     date: "September 2006-2017"
     description: "Bachelors Degree from George Mason University in Information Technology"
-  - image: "/img/java.jpg"
+  - image: "/img/java.png"
     date: "September 2005"
     description: "My first introduction into Coding"
 
