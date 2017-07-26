@@ -39,7 +39,6 @@ favicon: "/img/favicon.ico"
 # Intro layout #
 ################
 
-black-favicon: "/img/black-lab-glass.ico"
 me-img: "/img/linkedin.png"
 
 ################
@@ -47,7 +46,7 @@ me-img: "/img/linkedin.png"
 ################
 
 black-favicon: "/img/black-lab-glass.ico"
-
+me-img: "/img/linkedin.png"
 background-img: "/img/IMG_0778.JPG"
 
 ##############################
@@ -64,7 +63,7 @@ delete-delay: 5000
 lines: # You can add HTML Tags in the Text
   - text: "It is never too late to be what you might have been."
 
-me-img: "/img/13952679.jpeg"
+me-img: "/img/linkedin.png"
 
 ##############################
 # Color the browser elements #
