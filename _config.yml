@@ -110,19 +110,19 @@ syntax-highlight: True
 ############
 
 events:
-  - image: "/img/timeline/spidertocat.png"
+  - image: "/img/successCat.png"
     date: "2017 - Today"
-    description: "Waiting for what the future holds!"
+    description: "Working with the full stack of JS and waiting for what the future holds!!!!"
   - image: "/img/timeline/baracktocat.jpg"
     date: "May 2017"
-    description: "Hack Reactor"
-  - image: "/img/timeline/baracktocat.jpg"
+    description: "Quit my job to start self studying full time"
+  - image: "/img/sgh.jpg"
     date: "September 2006-2017"
     description: "Worked in IT for various companies"
-  - image: "/img/timeline/baracktocat.jpg"
+  - image: "/img/mason-logo-green.png"
     date: "September 2006-2017"
-    description: "Bachelors Degree from George Mason University in IT Security"
-  - image: "/img/timeline/baracktocat.jpg"
+    description: "Bachelors Degree from George Mason University in Information Technology"
+  - image: "/img/java.jpg"
     date: "September 2005"
     description: "My first introduction into Coding"
 
