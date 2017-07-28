@@ -106,7 +106,7 @@ disqus-shortname: "panossakkos"
 syntax-highlight: True
 
 ############
-# Timeline #
+# Life Events #
 ############
 
 events:
@@ -128,7 +128,7 @@ events:
 
 # First image of the Timeline
 
-timeline-img: "/img/linkedin.png"
+career-img: "/img/linkedin.png"
 
 ###########
 # Contact #
@@ -183,10 +183,10 @@ keybase-in-footer: True
 
 pages_list:
   About: 'about'
-  Blog: 'latest-post'
-  Timeline: 'timeline'
+  Blog: 'blog'
+  Career: 'career'
   Contact: 'contact'
-  Projects: 'Projects'
+  Projects: 'projects'
 
 # Exclusion list from the generated _site
 
