@@ -126,10 +126,6 @@ events:
     date: "September 2005"
     description: "My first introduction into Coding"
 
-# First image of the Timeline
-
-timeline-img: "/img/linkedin.png"
-
 ###########
 # Contact #
 ###########
