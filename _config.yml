@@ -112,7 +112,7 @@ syntax-highlight: True
 events:
   - image: "/img/successCat.png"
     date: "2017 - Today"
-    description: "Working with the full stack of JS and waiting for what the future holds"
+    description: "Working as a Software Engineer"
   - image: "/img/micdrop.jpg"
     date: "May 2017"
     description: "Quit my job to start self studying full time"
